@@ -8,3 +8,4 @@ Faster API Creation
 * Se na for usar SQLite, criar primeiro o Banco de Dados, o Sequelize fará o Resto
 
 # | Autor: Manuel Bento
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
