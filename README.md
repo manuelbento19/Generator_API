@@ -6,3 +6,5 @@ Faster API Creation
 * Ter a Política de Execução "Bypass"
 * Ter o ficheiro da estrutura da BD em JSON na pasta onde pretende criar a API
 * Se na for usar SQLite, criar primeiro o Banco de Dados, o Sequelize fará o Resto
+
+# | Autor: Manuel Bento
